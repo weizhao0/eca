@@ -1,4 +1,4 @@
-#Edge Context Attention（ECA）
+# Edge Context Attention（ECA）
 Project Goal: Edge Context Attention
 
 Edge Context Attention (ECA) aims to build a local intelligence layer that helps enterprise AI systems understand business context before sending information to a large language model.
